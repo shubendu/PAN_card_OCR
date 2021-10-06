@@ -49,10 +49,10 @@ Run main file
   
 ## Screenshots
 Query Image
-![App Screenshot](query.jpg)
+![pic1](pan1.jpg)
 
 Result Image
-![App Screenshot](result.jpg)
+![pic2](result.JPG)
 
 
   
