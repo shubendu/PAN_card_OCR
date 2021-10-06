@@ -1,7 +1,7 @@
 
 # PAN card OCR with pytesseract
 
-It will read any pan card image an will PAN number, Name, Father's Name and DOB.
+It will read any pan card image and will generate PAN number, Name, Father's Name and DOB with the help of Opencv and Pytesseract.
  
 
 
@@ -12,6 +12,10 @@ pip install pillow
 pip install ftfy
 
 pip install io
+
+pip install pytesseract
+
+pip install numpy
 
 
 
@@ -27,7 +31,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd PAN_card_OCR
 ```
 
 Install dependencies
@@ -45,10 +49,10 @@ Run main file
   
 ## Screenshots
 Query Image
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](query.jpg)
 
 Result Image
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](result.jpg)
 
 
   
