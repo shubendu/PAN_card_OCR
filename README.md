@@ -49,9 +49,11 @@ Run main file
   
 ## Screenshots
 Query Image
+
 ![pic1](pan1.jpg)
 
 Result Image
+
 ![pic2](result.JPG)
 
 
